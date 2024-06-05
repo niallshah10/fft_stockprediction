@@ -24,4 +24,4 @@ Contributions to this project are welcome. Please send pull requests or open an 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any queries, reach out to email@example.com.
+For any queries, reach out to niallshah@gmail.com
