@@ -18,7 +18,9 @@ Clone this repository and install the required packages:
 Run the notebook from the Jupyter interface to see the analysis and predictions. Parameters can be adjusted within the notebook to explore different setups.
 
 ## Contributing
-Contributions to this project are welcome. Please send pull requests or open an issue to discuss proposed changes.
+For reference to the link I used to aid me with this calculation: https://www.math.utah.edu/~gustafso/s2017/2270/projects-2016/williamsBarrett/williamsBarrett-Fast-Fourier-Transform-Predicting-Financial-Securities-Prices.pdf
+
+Any future contributions to this project are welcome. Please send pull requests or open an issue to discuss proposed changes.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
